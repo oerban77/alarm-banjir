@@ -7,7 +7,7 @@ buzzer berbunyi putus-putus, LED merah menyala, dan peringatan Telegram
 barang sebelum banjir datang.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/XUpVm6eTSLs
 
 ## Komponen
 
